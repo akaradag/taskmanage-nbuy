@@ -1,0 +1,11 @@
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\BLL.dll
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\DAL.dll
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\Entity.dll
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\Entity.pdb
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\obj\Debug\BLL.dll
+C:\Users\User\Source\Workspaces\MyFirstProject2\BlueTaskManagement\BLL\obj\Debug\BLL.pdb
